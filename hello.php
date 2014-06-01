@@ -7,7 +7,7 @@
  <body>
   <h1>Hello in PHP</h1>
   <?php
-   print "Hello, World!";
+   print "Hello, World!!!!";
    phpInfo();
   ?>
  
